@@ -4,6 +4,10 @@ import java.util.Random;
 
 public class Matematicas {
     public static double generarNumeroPi(long pasos){
+
+        if (pasos <0){
+            System.out.println("El número de pasos debe sser mayor que cero");
+        }
         double aciertos = 0;
         double radio = 1;
         double ladoCuadrado = 2 * radio;
