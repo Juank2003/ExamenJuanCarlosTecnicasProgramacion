@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4afbad1d-e359-43fc-a83f-5e301cb9fbac" name="Changes" comment="CreacionPractica2YmetodosPrincipales">
-      <change afterPath="$PROJECT_DIR$/src/main/java/dominio/Principal.java" afterDir="false" />
+    <list default="true" id="4afbad1d-e359-43fc-a83f-5e301cb9fbac" name="Changes" comment="MetodoleerEstadoActual">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/dominio/Tablero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dominio/Tablero.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,7 +52,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1679596558146</updated>
-      <workItem from="1679596559432" duration="1667000" />
+      <workItem from="1679596559432" duration="2307000" />
     </task>
     <task id="LOCAL-00001" summary="CreacionClases">
       <created>1679596826222</created>
@@ -82,7 +82,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679597993486</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="MetodoleerEstadoActual">
+      <created>1679598448770</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1679598448770</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -104,6 +111,7 @@
     <MESSAGE value="PriebaPractica1" />
     <MESSAGE value="AñadirExcepcionesClaseMatematicas" />
     <MESSAGE value="CreacionPractica2YmetodosPrincipales" />
-    <option name="LAST_COMMIT_MESSAGE" value="CreacionPractica2YmetodosPrincipales" />
+    <MESSAGE value="MetodoleerEstadoActual" />
+    <option name="LAST_COMMIT_MESSAGE" value="MetodoleerEstadoActual" />
   </component>
 </project>
