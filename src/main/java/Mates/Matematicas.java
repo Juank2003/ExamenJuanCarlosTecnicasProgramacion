@@ -3,9 +3,9 @@ package Mates;
 import java.util.Random;
 
 public class Matematicas {
-    public static double generarNumeroPi(long pasos){
+    public static double generarNumeroPi(long pasos) throws IllegalArgumentException{
 
-        if (pasos <0){
+        if (pasos <=0){
             System.out.println("El número de pasos debe sser mayor que cero");
         }
         double aciertos = 0;
